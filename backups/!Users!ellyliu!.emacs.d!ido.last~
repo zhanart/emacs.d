@@ -1,0 +1,65 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/ellyliu/Arthur/clojure-mode/" . "test/")
+ ("/Users/ellyliu/Arthur/" . "clojure-mode/")
+ ("/Users/ellyliu/.emacs.d/elpa/archives/" . "melpa/")
+ ("/Users/ellyliu/.emacs.d/elpa/" . "archives/")
+ ("/Users/ellyliu/" . "Arthur/")
+ ("/Users/ellyliu/.emacs.d/" . "customizations/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/ellyliu/Arthur/"
+ "/Users/ellyliu/.emacs.d/customizations/"
+ "/Users/ellyliu/.emacs.d/"
+ "/Users/ellyliu/Arthur/clojure-mode/"
+ "/Users/ellyliu/.emacs.d/elpa/archives/melpa/"
+ "/Users/ellyliu/.emacs.d/elpa/archives/gnu/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "configuring-emacs-from-scratch.org"
+ "ui.el"
+ "misc.el"
+ "init.el"
+ "color.el"
+ "test.clj"
+ "Todo.html"
+ "archive-contents"
+ "editing.el"
+ "navigation.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/ellyliu/.emacs.d/customizations/" (22761 43947 0 0) "ui.el~" "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "color.el" "../" "./")
+
+ ("/Users/ellyliu/.emacs.d/" (22761 43949 0 0) "vendor/" "projectile-bookmarks.eld" "network-security.data" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" "../" "./")
+
+ ("/Users/" (22761 4276 0 0) "Shared/" "ellyliu/" ".localized" "../" "./")
+
+ ("/Users/ellyliu/Arthur/" (22761 43366 0 0) "travel-to-toronto.org" "Toronto.org" "Todo.tex" "Todo.org~" "Todo.org_archive~" "Todo.org_archive" "Todo.html" "life-in-2017.org" "life-in-2016.org~" "life-in-2016.org" "life-in-2016.html" "learning-emacs/" "configuring-emacs-from-scratch.org~" "configuring-emacs-from-scratch.org" "clojure-mode/" ".DS_Store" "../" "./")
+
+ ("/Users/ellyliu/Arthur/clojure-mode/test/" (22313 65315 0 0) "test-helper.el" "clojure-mode-util-test.el" "clojure-mode-sexp-test.el" "clojure-mode-indentation-test.el" "clojure-mode-font-lock-test.el" "../" "./")
+
+ ("/Users/ellyliu/Arthur/clojure-mode/clojure-mode/" (22313 65398 0 0) "test.clj" "test/" "README.md" "Makefile" "CONTRIBUTING.md" "clojure-mode.el" "clojure-mode-extra-font-locking.el" "CHANGELOG.md" "Cask" ".travis.yml" ".gitignore" ".github/" ".git/" ".dir-locals.el" "../" "./")
+
+ ("/Users/ellyliu/Arthur/clojure-mode/" (22313 65315 0 0) "test.clj" "test/" "README.md" "Makefile" "CONTRIBUTING.md" "clojure-mode.el" "clojure-mode-extra-font-locking.el" "clojure-mode/" "CHANGELOG.md" "Cask" ".travis.yml" ".gitignore" ".github/" ".git/" ".dir-locals.el" "../" "./")
+
+ ("/Users/ellyliu/.emacs.d/elpa/archives/melpa/" (22761 38825 0 0) "archive-contents" "../" "./")
+
+ ("/Users/ellyliu/.emacs.d/elpa/archives/gnu/" (22761 38821 0 0) "archive-contents" "../" "./")
+
+ ("/Users/ellyliu/.emacs.d/elpa/archives/" (22761 34183 0 0) "melpa/" "marmalade/" "gnu/" "../" "./")
+
+ ("/Users/ellyliu/.emacs.d/elpa/" (22761 38916 0 0) "with-editor-20170111.609/" "tagedit-20161121.55/" "spinner-1.7.3/" "solarized-theme-20161222.109/" "smex-20151212.1409/" "seq-2.19/" "s-20160928.636/" "rainbow-delimiters-20160430.2358/" "queue-0.1.1/" "projectile-20170407.319/" "pkg-info-20150517.443/" "paredit-20170405.1149/" "magit-popup-20170308.146/" "magit-20170407.2107/" "ido-ubiquitous-20170313.1603/" "ido-completing-read+-20170313.1603/" "git-commit-20170314.1414/" "exec-path-from-shell-20170304.1309/" "epl-20150517.433/" "dash-20170207.2056/" "clojure-mode-extra-font-locking-20170303.2310/" "clojure-mode-20170407.312/" "cider-20170403.402/" "async-20170219.942/" "archives/" "../" "./")
+
+ ("/Users/ellyliu/" (22761 33519 0 0) "vagrant-vms/" "vagrant-boxes/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "init/" "emacs-questions/" "Downloads/" "dotfiles/" "Documents/" "Desktop/" "config.log" "code/" "clojure-code/" "Calibre Library/" "brew.sh" "books/" "bin/" "Arthur/" "Applications/" ".wgetrc" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".vagrant/" ".Trash/" ".sogouinput/" ".screenrc" ".path" ".osx" ".oracle_jre_usage/" ".macos" ".m2/" ".lein/" ".inputrc" ".hushlogin" ".hgignore" ".gvimrc" ".gnupg/" ".gitignore" ".gitconfig" ".gitattributes" ".gdbinit" ".functions" ".exports" ".emacs.d.bak/" ".emacs.d/" ".editorconfig" ".DS_Store" ".curlrc" ".CFUserTextEncoding" ".bashrc" ".bash_sessions/" ".bash_prompt" ".bash_profile" ".bash_history" ".aliases" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
